@@ -8,5 +8,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimizu1026/typescript-for-javascript-developers.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shimizu1026/typescript-for-javascript-developers/issues"
+  },
+  "homepage": "https://github.com/shimizu1026/typescript-for-javascript-developers#readme",
   "description": ""
 }
